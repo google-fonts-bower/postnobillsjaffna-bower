@@ -1,0 +1,17 @@
+{
+    "name": "postnobillsjaffna-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Mooniak"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/postnobillsjaffna-bower.git"
+    },
+    "description": "Post No Bills Jaffna font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
